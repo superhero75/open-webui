@@ -133,7 +133,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-GROQ_API_KEY.env
+**/*.env
+**/open-webui/
 .env
 .venv
 env/
